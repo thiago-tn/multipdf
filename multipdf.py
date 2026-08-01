@@ -27,11 +27,11 @@ def list_pdfs_in_folder(folder_path):
     return pdfs
 
 def extract_image_from_pdf(pdf_path, output_path):
-    # implementar função de extração de imagem aqui
+    
     pass
 
 def extract_text_from_pdf(pdf_path):
-    # implementar função de extração de texto aqui
+   
     pass
 
 def merge_pdfs(pdf1_path, pdf2_path, output_path):
